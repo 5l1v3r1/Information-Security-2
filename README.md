@@ -41,3 +41,15 @@
 
 #Get shared logins
 1. http://bugmenot.com ( Try out the service before actually registering by getting the shared logins )
+
+
+#Validating email sender
+1. https://mxtoolbox.com/Public/Content/EmailHeaders/
+
+
+
+
+
+#Readings
+1. https://resources.infosecinstitute.com/topic/fbi-tor-exploit/
+
